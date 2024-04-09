@@ -115,7 +115,7 @@ const Table = () => {
           {data.map((row, index) => (
             <tr
               key={index}
-              className="bg-white border-b border-solid border-slate-700 overflow-x-auto"
+              className="bg-white border-b border-solid border-slate-700 overflow-x-auto    "
             >
               <td className="px-6 py-4">{row.page}</td>
               <td className="px-6 py-4 text-right border-b-2">

@@ -3,7 +3,7 @@ import SearchBar from "../search";
 import { PiBell } from "react-icons/pi";
 import { AiOutlineMessage } from "react-icons/ai";
 import { TbSettings } from "react-icons/tb";
-import user from "../../assets/user.jpg";
+import user from "../../assets/user.jpeg";
 const Navbar = () => {
   return (
     <div className="flex w-full h-14 gap-2 md:ps-48 items-center justify-between md:pr-3">
